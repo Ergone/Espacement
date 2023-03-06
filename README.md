@@ -6,6 +6,7 @@ git init repository
 git remote add origin < url >
 
 ----------POUR ENVOYER DES CHANGEMENTS----------
+
 git add .
 
 git commit -m "message_à_afficher"
